@@ -1,0 +1,2510 @@
+{"questions":[
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f950730",
+  "correct_answer": "Leonardo DiCaprio",
+  "incorrect_answers": [
+    "Ralph Fiennes",
+    "Brian Cox",
+    "Kiefer Sutherland"
+  ],
+  "question": "Which actor has starred in films including Titanic and The Revenant?",
+  "tags": [
+    "acting",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "625698719da29df7b05f7287",
+  "correct_answer": "Loki",
+  "incorrect_answers": [
+    "Iron Man",
+    "Black Panther",
+    "Spiderman"
+  ],
+  "question": "In the Marvel Cinematic Unvierse, which character is played by Tom Hiddleston?",
+  "tags": [
+    "mcu",
+    "film",
+    "acting",
+    "marvel",
+    "comics",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fbde",
+  "correct_answer": "\"Very nice!\"",
+  "incorrect_answers": [
+    "\"I'm walking here! I'm walking here!\"",
+    "\"The stuff that dreams are made of.\"",
+    "\"A martini. Shaken, not stirred.\""
+  ],
+  "question": "Which of these quotes is from the film 'Borat'?",
+  "tags": [
+    "quotes",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fa61",
+  "correct_answer": "Heath Ledger",
+  "incorrect_answers": [
+    "Josh Brolin",
+    "Robert Downey Jr.",
+    "Philip Seymour Hoffman"
+  ],
+  "question": "Who won the 2008 Academy Award for Best Supporting Actor for playing the role of Joker in The Dark Knight?",
+  "tags": [
+    "academy_awards",
+    "film",
+    "batman",
+    "dc",
+    "comics",
+    "acting",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f950713",
+  "correct_answer": "Will Smith",
+  "incorrect_answers": [
+    "Brian Cox",
+    "Ralph Fiennes",
+    "Ryan Reynolds"
+  ],
+  "question": "Which actor has featued in films including Suicide Squad and Men in Black?",
+  "tags": [
+    "acting",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573f009da29df7b05f7381",
+  "correct_answer": "The Matrix",
+  "incorrect_answers": [
+    "Pulp Fiction",
+    "Forrest Gump",
+    "Joker"
+  ],
+  "question": "Name the movie that matches the following plot summary: 'A hacker discovers the life he knows is the elaborate deception of an evil cyber-intelligence.'",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f9506fb",
+  "correct_answer": "Matthew McConaughey",
+  "incorrect_answers": [
+    "Ryan Reynolds",
+    "Jim Carrey",
+    "Hugh Jackman"
+  ],
+  "question": "Which actor has featued in films including Interstellar and The Wolf of Wall Street?",
+  "tags": [
+    "film",
+    "acting",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "625741379da29df7b05f740e",
+  "correct_answer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "incorrect_answers": [
+    "Die Hard",
+    "The Departed",
+    "The Truman Show"
+  ],
+  "question": "Name the movie that matches the following plot summary: 'A blacksmith teams up with an eccentric pirate to save his love.'",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fbeb",
+  "correct_answer": "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+  "incorrect_answers": [
+    "\"Not my tempo.\"",
+    "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
+    "\"Tell 'em to go out there with all they got and win just one for the Gipper.\""
+  ],
+  "question": "Which of these quotes is from the film 'Snakes on a Plane'?",
+  "tags": [
+    "quotes",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fc28",
+  "correct_answer": "\"My mama always said life was like a box of chocolates. You never know what you're gonna get.\"",
+  "incorrect_answers": [
+    "\"Very nice!\"",
+    "\"Say hello to my little friend!\"",
+    "\"Nobody makes me bleed my own blood. Nobody!\""
+  ],
+  "question": "Which of these quotes is from the film 'Forrest Gump'?",
+  "tags": [
+    "quotes",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "625740ec9da29df7b05f7402",
+  "correct_answer": "Jaws",
+  "incorrect_answers": [
+    "The Silence of the Lambs",
+    "The Good, the Bad and the Ugly",
+    "Platoon"
+  ],
+  "question": "Name the movie that matches the following plot summary: 'A killer shark unleashes chaos on a beach community.'",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94f914",
+  "correct_answer": "The Silence of the Lambs",
+  "incorrect_answers": [
+    "Casablanca",
+    "A Nightmare on Elm Street",
+    "Taxi Driver"
+  ],
+  "question": "Which film contains the character 'Hannibal Lecter'?",
+  "tags": [
+    "acting",
+    "film",
+    "horror",
+    "general_knowledge",
+    "fictitious_characters",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f9507aa",
+  "correct_answer": "Tom Hanks",
+  "incorrect_answers": [
+    "Leonardo DiCaprio",
+    "Tom Cruise",
+    "Sean Connery"
+  ],
+  "question": "Which actor has featured in films including Forrest Gump and Saving Private Ryan?",
+  "tags": [
+    "film",
+    "acting",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c357cc59eab6f94fc53",
+  "correct_answer": "\"May the Force be with you.\"",
+  "incorrect_answers": [
+    "\"You’re going to go through life thinking that girls don’t like you because you’re a nerd. And I want you to know, from the bottom of my heart, that won’t be true. It’ll be because you’re an a**hole.\"",
+    "\"Shane. Shane. Come back!\"",
+    "\"Elementary, my dear Watson.\""
+  ],
+  "question": "Which of these quotes is from the film 'Star Wars'?",
+  "tags": [
+    "quotes",
+    "film",
+    "general_knowledge",
+    "star_wars",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94f8d9",
+  "correct_answer": "Bruce Willis",
+  "incorrect_answers": [
+    "John Travolta",
+    "Sean Penn",
+    "Al Pacino"
+  ],
+  "question": "Which actor played the role of John McClane in Die Hard?",
+  "tags": [
+    "acting",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fadd",
+  "correct_answer": "Tom Hanks",
+  "incorrect_answers": [
+    "Morgan Freeman",
+    "Nigel Hawthorne",
+    "Paul Newman"
+  ],
+  "question": "Who won the 1994 Academy Award for Best Leading Actor for playing the role of Forrest Gump in Forrest Gump?",
+  "tags": [
+    "academy_awards",
+    "acting",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573f569da29df7b05f7396",
+  "correct_answer": "Back to the Future",
+  "incorrect_answers": [
+    "The Truman Show",
+    "Raiders of the Lost Ark",
+    "Forrest Gump"
+  ],
+  "question": "Name the movie that matches the following plot summary: 'A high school student is sent thirty years into the past in a time-traveling car.'",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fadc",
+  "correct_answer": "Anthony Hopkins",
+  "incorrect_answers": [
+    "Warren Beatty",
+    "Robert De Niro",
+    "Nick Nolte"
+  ],
+  "question": "Who won the 1991 Academy Award for Best Leading Actor for playing the role of Dr. Hannibal Lecter in The Silence of the Lambs?",
+  "tags": [
+    "academy_awards",
+    "acting",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fc37",
+  "correct_answer": "\"There's no place like home.\"",
+  "incorrect_answers": [
+    "\"Oh, Jerry, don't let's ask for the moon. We have the stars.\"",
+    "\"I’m already pregnant. So, what other shenanigans could I get myself into?\"",
+    "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\""
+  ],
+  "question": "Which of these quotes is from the film 'The Wizard of Oz'?",
+  "tags": [
+    "film",
+    "quotes",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94f907",
+  "correct_answer": "Raiders of the Lost Ark",
+  "incorrect_answers": [
+    "The Graduate",
+    "Alien",
+    "The Usual Suspects"
+  ],
+  "question": "Which film contains the character 'Indiana Jones'?",
+  "tags": [
+    "film",
+    "fictitious_characters",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "6257413a9da29df7b05f740f",
+  "correct_answer": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp.",
+  "incorrect_answers": [
+    "Simba and his father are targeted by his uncle, who wants to ascend the throne himself.",
+    "Two soldiers race to deliver a message that will stop 1,600 men from walking into a deadly trap.",
+    "Two grifters team up to pull off the ultimate con."
+  ],
+  "question": "What is the plot of the movie Aladdin?",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fbdb",
+  "correct_answer": "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
+  "incorrect_answers": [
+    "\"My precious.\"",
+    "\"I'll get you, my pretty, and your little dog, too!\"",
+    "\"Keep your friends close, but your enemies closer.\""
+  ],
+  "question": "Which of these quotes is from the film 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+  "tags": [
+    "quotes",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573fa49da29df7b05f73a8",
+  "correct_answer": "An archaeologist is hired by the government to find the Ark of the Covenant.",
+  "incorrect_answers": [
+    "On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
+    "A Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "A 12-year-old is taken in by a professional assassin after her family is murdered."
+  ],
+  "question": "What is the plot of the movie Raiders of the Lost Ark?",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94f90c",
+  "correct_answer": "The Lord of the Rings",
+  "incorrect_answers": [
+    "The Searchers",
+    "Ghost",
+    "My Favorite Year"
+  ],
+  "question": "Which film contains the character 'Gollum'?",
+  "tags": [
+    "fictitious_characters",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573efd9da29df7b05f7380",
+  "correct_answer": "A man becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+  "incorrect_answers": [
+    "In order to power the city, beasts have to scare children so that they scream.",
+    "A girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
+    "King Arthur and his Knights embark on a search for a religious relic."
+  ],
+  "question": "What is the plot of the movie Schindler's List?",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573f8c3d2f5c16bfb88334",
+  "correct_answer": "The crew of a spacecraft encounter a deadly lifeform after investigating a transmission.",
+  "incorrect_answers": [
+    "The life of the lawyer who became the famed leader of the Indian revolts against the British rule.",
+    "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder.",
+    "After the death of a tycoon, reporters scramble to uncover the meaning of his final utterance."
+  ],
+  "question": "What is the plot of the movie Alien?",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c357cc59eab6f94fc4b",
+  "correct_answer": "\"I'm gonna make him an offer he can't refuse.\"",
+  "incorrect_answers": [
+    "\"I love the smell of napalm in the morning.\"",
+    "\"I have nipples Greg. Could you milk me?\"",
+    "\"Elementary, my dear Watson.\""
+  ],
+  "question": "Which of these quotes is from the film 'The Godfather'?",
+  "tags": [
+    "quotes",
+    "film",
+    "general_knowledge",
+    "cult_films",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f9507b4",
+  "correct_answer": "Arnold Schwarzenegger",
+  "incorrect_answers": [
+    "Sylvester Stallone",
+    "Jason Statham",
+    "Chuck Norris"
+  ],
+  "question": "Which action star has featured in both Terminator and Predator?",
+  "tags": [
+    "film",
+    "acting",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f950797",
+  "correct_answer": "Robert Downey Jr.",
+  "incorrect_answers": [
+    "Chris Evans",
+    "Chris Hemsworth",
+    "Tom Holland"
+  ],
+  "question": "Which actor played the role of Iron Man in the Marvel Cinematic Universe?",
+  "tags": [
+    "acting",
+    "film",
+    "marvel",
+    "comics",
+    "mcu",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fc03",
+  "correct_answer": "\"Forget it, Jake, it's Chinatown.\"",
+  "incorrect_answers": [
+    "\"I could do this all day\"",
+    "\"You shall not pass!\"",
+    "\"Mother of mercy, is this the end of Rico?\""
+  ],
+  "question": "Which of these quotes is from the film 'Chinatown'?",
+  "tags": [
+    "film",
+    "quotes",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573f079da29df7b05f7383",
+  "correct_answer": "A chaotic clown causes a masked vigilante one of his greatest tests.",
+  "incorrect_answers": [
+    "A stranger joins forces with a desperado to protect a widow from an assassin.",
+    "A woman works with a hardened boxing trainer to become a professional.",
+    "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend."
+  ],
+  "question": "What is the plot of the movie The Dark Knight?",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c367cc59eab6f9501fe",
+  "correct_answer": "Quentin Tarantino",
+  "incorrect_answers": [
+    "Steven Spielberg",
+    "Woody Allen",
+    "Martin Scorsese"
+  ],
+  "question": "Which director directed Pulp Fiction?",
+  "tags": [
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f9507bb",
+  "correct_answer": "Clint Eastwood",
+  "incorrect_answers": [
+    "Matt Damon",
+    "Robert De Niro",
+    "Sean Connery"
+  ],
+  "question": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?",
+  "tags": [
+    "film",
+    "acting",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573f899da29df7b05f73a1",
+  "correct_answer": "A young man joins forces with an old man, a cocky pilot, a beast and two robots to save the galaxy.",
+  "incorrect_answers": [
+    "The son of a city's mastermind falls in love with a working-class prophet.",
+    "After two male musicians witness a murder, they flee in an all-female band disguised as women.",
+    "Violence and mayhem ensue after a man stumbles upon more than two million dollars."
+  ],
+  "question": "What is the plot of the movie Star Wars?",
+  "tags": [
+    "film"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94f922",
+  "correct_answer": "Austin Powers: International Man of Mystery",
+  "incorrect_answers": [
+    "Die Hard",
+    "The Adventures of Robin Hood",
+    "Pulp Fiction"
+  ],
+  "question": "Which film contains the character 'Dr. Evil'?",
+  "tags": [
+    "acting",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f9507ad",
+  "correct_answer": "Tom Hanks",
+  "incorrect_answers": [
+    "Ewan McGregor",
+    "Will Smith",
+    "Tom Cruise"
+  ],
+  "question": "Which actor has featured in films including Forrest Gump and Apollo 13?",
+  "tags": [
+    "film",
+    "acting",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fc0f",
+  "correct_answer": "\"Take your stinking paws off me, you damned dirty ape.\"",
+  "incorrect_answers": [
+    "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+    "\"Toga! Toga!\"",
+    "\"Attica! Attica!\""
+  ],
+  "question": "Which of these quotes is from the film 'Planet of the Apes'?",
+  "tags": [
+    "quotes",
+    "film",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "62573fee9da29df7b05f73b7",
+  "correct_answer": "Toy Story",
+  "incorrect_answers": [
+    "Pan's Labyrinth",
+    "The Exorcist",
+    "Gandhi"
+  ],
+  "question": "Name the movie that matches the following plot summary: 'A cowboy doll is threatened when a new spaceman figure supplants him as top toy.'",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fc11",
+  "correct_answer": "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+  "incorrect_answers": [
+    "\"Soylent Green is people!\"",
+    "\"Round up the usual suspects.\"",
+    "\"Just keep swimming.\""
+  ],
+  "question": "Which of these quotes is from the film 'The Graduate'?",
+  "tags": [
+    "quotes",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "624dba55cd90beeca353156c",
+  "correct_answer": "Daniel Craig",
+  "incorrect_answers": [
+    "Sean Connery",
+    "Roger Moore",
+    "Timothy Dalton"
+  ],
+  "question": "Who played the role of James Bond in Skyfall?",
+  "tags": [
+    "james_bond",
+    "film",
+    "acting",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "625698689da29df7b05f7285",
+  "correct_answer": "Captain America",
+  "incorrect_answers": [
+    "Thor",
+    "The Collector",
+    "Spiderman"
+  ],
+  "question": "Chris Evans plays the role of which character in the Marvel Cinematic Unvierse?",
+  "tags": [
+    "mcu",
+    "film",
+    "acting",
+    "marvel",
+    "comics",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fc0d",
+  "correct_answer": "\"Here's Johnny!\"",
+  "incorrect_answers": [
+    "\"Nobody puts Baby in a corner.\"",
+    "\"You’re going to go through life thinking that girls don’t like you because you’re a nerd. And I want you to know, from the bottom of my heart, that won’t be true. It’ll be because you’re an a**hole.\"",
+    "\"Yo, Adrian!\""
+  ],
+  "question": "Which of these quotes is from the film 'The Shining'?",
+  "tags": [
+    "quotes",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fbc9",
+  "correct_answer": "\"This is Sparta!\"",
+  "incorrect_answers": [
+    "\"Elementary, my dear Watson.\"",
+    "\"I have always depended on the kindness of strangers.\"",
+    "\"I love the smell of napalm in the morning.\""
+  ],
+  "question": "Which of these quotes is from the film '300'?",
+  "tags": [
+    "film",
+    "quotes",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "625698549da29df7b05f7280",
+  "correct_answer": "Tony Stark",
+  "incorrect_answers": [
+    "The Grandmaster",
+    "Alexander Pierce",
+    "Vision"
+  ],
+  "question": "In the Marvel Cinematic Unvierse, which character is played by Robert Downey Jr.?",
+  "tags": [
+    "mcu",
+    "film",
+    "acting",
+    "marvel",
+    "comics",
+    "general_knowledge",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c377cc59eab6f9507c5",
+  "correct_answer": "Harrison Ford",
+  "incorrect_answers": [
+    "Brad Pitt",
+    "Michael Fassbender",
+    "John Cusack"
+  ],
+  "question": "Which actor has starred in films including Star Wars and Blade Runner?",
+  "tags": [
+    "acting",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c347cc59eab6f94fbe0",
+  "correct_answer": "\"Nobody makes me bleed my own blood. Nobody!\"",
+  "incorrect_answers": [
+    "\"Are you not entertained?\"",
+    "\"I have had it with these mother—— snakes on this mother—— plane!\"",
+    "\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""
+  ],
+  "question": "Which of these quotes is from the film 'Dodgeball: A True Underdog Story'?",
+  "tags": [
+    "quotes",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "625740f39da29df7b05f7404",
+  "correct_answer": "A young girl and her dog are swept away by a tornado from their Kansas farm to a magical land.",
+  "incorrect_answers": [
+    "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "The jury in a murder trial is frustrated by a member whose caution forces them to consider the evidence.",
+    "A former neo-nazi tries to prevent his brother from going down the same path that he did."
+  ],
+  "question": "What is the plot of the movie The Wizard of Oz?",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "622a1c367cc59eab6f9501f0",
+  "correct_answer": "Christopher Nolan",
+  "incorrect_answers": [
+    "Steven Spielberg",
+    "Woody Allen",
+    "Martin Scorsese"
+  ],
+  "question": "Which director directed Interstellar?",
+  "tags": [
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "6256986c9da29df7b05f7286",
+  "correct_answer": "Chris Hemsworth",
+  "incorrect_answers": [
+    "Jon Favreau",
+    "John Slattery",
+    "Tom Holland"
+  ],
+  "question": "The role of Thor in the Marvel Cinematic Universe is played by which actor?",
+  "tags": [
+    "mcu",
+    "film",
+    "acting",
+    "marvel",
+    "comics",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },
+  {
+  "category": "Film & TV",
+  "id": "625740839da29df7b05f73e3",
+  "correct_answer": "After his son is captured and taken to Sydney, a clownfish sets out on a journey to bring him home.",
+  "incorrect_answers": [
+    "A prince cursed to spend his days as a monster sets out to regain his humanity.",
+    "After he becomes a quadriplegic, an aristocrat hires a young man to be his caregiver.",
+    "A high school student is sent thirty years into the past in a time-traveling car."
+  ],
+  "question": "What is the plot of the movie Finding Nemo?",
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "Multiple Choice",
+  "difficulty": "easy"
+  },{
+    "category": "Food & Drink",
+    "id": "624c60ad50d1a5e051325a6c",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "Equatorial Guinea",
+      "Spain",
+      "Austria"
+    ],
+    "question": "Where in the world would you most expect to be served Lasagna?",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502e3",
+    "correct_answer": "Greece ",
+    "incorrect_answers": [
+      "Italy",
+      "Russia",
+      "Pakistan"
+    ],
+    "question": "In which country would you expect to be served a yoghurt-based starter called 'tzatziki'?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f950224",
+    "correct_answer": "Mushrooms ",
+    "incorrect_answers": [
+      "Garlic",
+      "Onion",
+      "Cabbage"
+    ],
+    "question": "Which Vegetable Can Be Oyster, Chestnut, or Shitaki?",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f951635",
+    "correct_answer": "Bread",
+    "incorrect_answers": [
+      "Cheese",
+      "Fruit",
+      "Nut"
+    ],
+    "question": " What type of food is pitta?",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f95163b",
+    "correct_answer": "Green",
+    "incorrect_answers": [
+      "Blue",
+      "Yellow",
+      "Red"
+    ],
+    "question": " What colour is the flesh of an avocado?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f950285",
+    "correct_answer": "Grog ",
+    "incorrect_answers": [
+      "Guppy",
+      "Roller",
+      "Meal"
+    ],
+    "question": "What was the name of the highly diluted rum that was once given to British sailors?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f95164a",
+    "correct_answer": "Lettuce",
+    "incorrect_answers": [
+      "Egg",
+      "Tomato",
+      "Bread"
+    ],
+    "question": " Iceberg, Boston, and Bibb are types of what?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502f6",
+    "correct_answer": "Bread ",
+    "incorrect_answers": [
+      "Cheese",
+      "Cake",
+      "Wine"
+    ],
+    "question": "Bruschetta is what?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f950298",
+    "correct_answer": "Michelin Star",
+    "incorrect_answers": [
+      "North Star",
+      "Flavour Star",
+      "Prestige Star"
+    ],
+    "question": "What Type Of Star Is Awarded To Restaurants Where The food Is Of Exceptional Quality?",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f951555",
+    "correct_answer": "Samosa",
+    "incorrect_answers": [
+      "Pakora",
+      "Curry",
+      "Bhaji"
+    ],
+    "question": "What name is given to an Indian deep fried triangular pastry?",
+    "tags": [
+      "food",
+      "india",
+      "pastry",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f951627",
+    "correct_answer": "Morocco ",
+    "incorrect_answers": [
+      "Italy",
+      "France",
+      "Brazil"
+    ],
+    "question": "A Tagine Is A Dish That Originated In Which Country?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f951617",
+    "correct_answer": "100",
+    "incorrect_answers": [
+      "0",
+      "273",
+      "71"
+    ],
+    "question": "At What Temperature Centigrade Does Water Boil At?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3c7cc59eab6f951954",
+    "correct_answer": "Pigs in blankets",
+    "incorrect_answers": [
+      "Little weiners",
+      "Swine rolls",
+      "Porkos"
+    ],
+    "question": "What is the popular name for little baked sausages wrapped in rashers of streaky bacon?",
+    "tags": [
+      "food",
+      "names",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f95029f",
+    "correct_answer": "Parmesan ",
+    "incorrect_answers": [
+      "Wensleydale",
+      "Stilton",
+      "Gorgonzola"
+    ],
+    "question": "What sort of cheese would you sprinkle on spaghetti?",
+    "tags": [
+      "food",
+      "italy",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f95022f",
+    "correct_answer": "Guinness ",
+    "incorrect_answers": [
+      "Porters",
+      "Doogals",
+      "Old Black"
+    ],
+    "question": "Which stout is Dublin world-famous for?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f950214",
+    "correct_answer": "Roald Dahl ",
+    "incorrect_answers": [
+      "Charles Dickens",
+      "Jacqueline Wilson",
+      "Morgan Scott"
+    ],
+    "question": "Who wrote the book Charlie and the Chocolate Factory?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f95023e",
+    "correct_answer": "Haggis ",
+    "incorrect_answers": [
+      "Neeps and Tatties",
+      "Pizza Crunch",
+      "Cullen Skink"
+    ],
+    "question": "Which Scottish Dish Is Boiled In The Stomach Lining Of A Sheep?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f9515e9",
+    "correct_answer": "Kosher ",
+    "incorrect_answers": [
+      "Deli",
+      "Vegan",
+      "Halal"
+    ],
+    "question": "Food that is permitted to be eaten under Jewish dietary laws is known as what?",
+    "tags": [
+      "food",
+      "judaism",
+      "religion",
+      "words",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c607b50d1a5e051325a5e",
+    "correct_answer": "England",
+    "incorrect_answers": [
+      "Mexico",
+      "Philippines",
+      "Spain"
+    ],
+    "question": "Fish & Chips is a dish that is most associated with which part of the world?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60b150d1a5e051325a6d",
+    "correct_answer": "Pizza",
+    "incorrect_answers": [
+      "Dim Sum",
+      "Cou Cou and Flying Fish",
+      "Kabuli Pulao"
+    ],
+    "question": "Which of these dishes would you most expect to find in Italy?",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "italy",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60fc50d1a5e051325a81",
+    "correct_answer": "Spain",
+    "incorrect_answers": [
+      "Denmark",
+      "Cambodia",
+      "Costa Rica"
+    ],
+    "question": "Where in the world would you most expect to be served Paella?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60f550d1a5e051325a7f",
+    "correct_answer": "Scotland",
+    "incorrect_answers": [
+      "Estonia",
+      "Hungary",
+      "Thailand"
+    ],
+    "question": "Where in the world would you most expect to be served Haggis?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f9515cc",
+    "correct_answer": "Spain ",
+    "incorrect_answers": [
+      "Italy",
+      "France",
+      "Russia"
+    ],
+    "question": "From which country does the dish paella originate?",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60c095b12387e142c79b",
+    "correct_answer": "Ramen",
+    "incorrect_answers": [
+      "Ceviche",
+      "Plov",
+      "Chilli Crab"
+    ],
+    "question": "Which of these dishes would you most expect to find in Japan?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c608650d1a5e051325a61",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "Austria",
+      "Benin",
+      "North Africa"
+    ],
+    "question": "Crêpes are most associated with which part of the world?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f950246",
+    "correct_answer": "Avocado ",
+    "incorrect_answers": [
+      "Cucumber",
+      "Tomato",
+      "Mango"
+    ],
+    "question": "Which Is The Main Ingredient Of Guacamole?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60d150d1a5e051325a75",
+    "correct_answer": "Mexico",
+    "incorrect_answers": [
+      "Bhutan",
+      "Japan",
+      "Brazil"
+    ],
+    "question": "Where in the world would you most expect to be served a taco?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502e6",
+    "correct_answer": "Mexico ",
+    "incorrect_answers": [
+      "USA",
+      "Guatemala",
+      "Costa Rica"
+    ],
+    "question": "From which country does Tabasco sauce originate?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502c3",
+    "correct_answer": "Clove ",
+    "incorrect_answers": [
+      "Husk",
+      "Kernel",
+      "Nibbet"
+    ],
+    "question": "What is a segment of garlic called?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502a0",
+    "correct_answer": "Dr Pepper ",
+    "incorrect_answers": [
+      "Lucozade",
+      "Tango",
+      "Sunny Delight"
+    ],
+    "question": "What soft drink is advertised with the slogan, \"What's the worst that could happen\"?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502f2",
+    "correct_answer": "Deer ",
+    "incorrect_answers": [
+      "Sheep",
+      "Pig",
+      "Goat"
+    ],
+    "question": "From what animal do we get venison?",
+    "tags": [
+      "animals",
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f950248",
+    "correct_answer": "Apple ",
+    "incorrect_answers": [
+      "Blackberry",
+      "Strawberry",
+      "Banana"
+    ],
+    "question": "Which fruit is traditionally covered with toffee at a fairground?",
+    "tags": [
+      "food"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f95023f",
+    "correct_answer": "Al dente ",
+    "incorrect_answers": [
+      "Tartilli",
+      "Forte Benne",
+      "Parpa Delle"
+    ],
+    "question": "Which Italian phrase is used to describe pasta cooked only until it offers a slight resistance when bitten?",
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c609c50d1a5e051325a67",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Scotland",
+      "Cameroon",
+      "Mauritius"
+    ],
+    "question": "Tandoori Chicken is a dish that is most associated with which part of the world?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f9502bc",
+    "correct_answer": "Pasta ",
+    "incorrect_answers": [
+      "Chicken",
+      "Cheese",
+      "Bread"
+    ],
+    "question": "What Is Ravioli? ",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "words",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c367cc59eab6f950234",
+    "correct_answer": "Ronald Mcdonald",
+    "incorrect_answers": [
+      "The King",
+      "Donald Burger",
+      "Meato"
+    ],
+    "question": "Who is McDonald's mascot?",
+    "tags": [
+      "business",
+      "advertising",
+      "fictitious_characters",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c6148badf21197f98f771",
+    "correct_answer": "United States",
+    "incorrect_answers": [
+      "Brunei",
+      "Bahrain",
+      "Vietnam"
+    ],
+    "question": "Where in the world would you most expect to be served Mac 'N' Cheese?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60d550d1a5e051325a76",
+    "correct_answer": "North Africa",
+    "incorrect_answers": [
+      "Ghana",
+      "Belgium",
+      "South America"
+    ],
+    "question": "Tagine is a dish that is most associated with which part of the world?",
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60bc50d1a5e051325a70",
+    "correct_answer": "Japan",
+    "incorrect_answers": [
+      "Turkey",
+      "Spain",
+      "Estonia"
+    ],
+    "question": "Where in the world would you most expect to be served Sushi?",
+    "tags": [
+      "food",
+      "general_knowledge",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "624c60dc50d1a5e051325a78",
+    "correct_answer": "Stamppot",
+    "incorrect_answers": [
+      "Ropa Vieja",
+      "Meat Pie",
+      "Ramen"
+    ],
+    "question": "Which of these dishes is most associated with Netherlands?",
+    "tags": [
+      "food",
+      "the_netherlands",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Food & Drink",
+    "id": "622a1c3b7cc59eab6f9515cb",
+    "correct_answer": "Mexico ",
+    "incorrect_answers": [
+      "China",
+      "France",
+      "Australia"
+    ],
+    "question": "From which country does the drink Tequila originate?",
+    "tags": [
+      "drink",
+      "alcohol",
+      "countries",
+      "food_and_drink"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },{
+    "category": "Geography",
+    "id": "62602cff4b176d54800e3c77",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": [
+      "Australia",
+      "Ireland",
+      "Canada"
+    ],
+    "question": "In which country is the city of London?",
+    "tags": [
+      "cities",
+      "europe",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602dd24b176d54800e3cad",
+    "correct_answer": "Rio De Janeiro",
+    "incorrect_answers": [
+      "Caracas",
+      "San Juan",
+      "Montevideo"
+    ],
+    "question": "Which of these cities is in Brazil?",
+    "tags": [
+      "cities",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d8c4b176d54800e3ca0",
+    "correct_answer": "Buenos Aires",
+    "incorrect_answers": [
+      "Fortaleza",
+      "Santiago",
+      "Monterrey"
+    ],
+    "question": "Which of these cities is in Argentina?",
+    "tags": [
+      "cities",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d924b176d54800e3ca2",
+    "correct_answer": "United Arab Emirates",
+    "incorrect_answers": [
+      "Bahrain",
+      "Egypt",
+      "Jordan"
+    ],
+    "question": "In which country is the city of Abu Dhabi?",
+    "tags": [
+      "cities",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623742c0cb85f7ce9e949ded",
+    "correct_answer": "Uganda",
+    "incorrect_answers": [
+      "Guinea",
+      "Bangladesh",
+      "Solomon Islands"
+    ],
+    "question": "Kampala is the capital city of which country?",
+    "tags": [
+      "capital_cities",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "625e9dff796f721e95543f38",
+    "correct_answer": "Brazil",
+    "incorrect_answers": [
+      "Jamaica",
+      "Faroe Islands",
+      "Iran"
+    ],
+    "question": "Which country's flag can be described as 'Green with a yellow diamond in the center with a blue celestial globe.'?",
+    "tags": [
+      "flags",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602deb4b176d54800e3cb4",
+    "correct_answer": "Marseille",
+    "incorrect_answers": [
+      "Düsseldorf",
+      "Zürich",
+      "Dublin"
+    ],
+    "question": "Which of these cities is in France?",
+    "tags": [
+      "cities",
+      "europe",
+      "france",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d664b176d54800e3c95",
+    "correct_answer": "Ireland",
+    "incorrect_answers": [
+      "United Kingdom",
+      "Australia",
+      "United States"
+    ],
+    "question": "In which country is the city of Dublin?",
+    "tags": [
+      "cities",
+      "europe",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623385150161109f922aabd7",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean"
+    ],
+    "question": "What ocean is found along the East Coast of Asia?",
+    "tags": [
+      "bodies_of_water",
+      "oceans",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c387cc59eab6f950aa4",
+    "correct_answer": "United States of America",
+    "incorrect_answers": [
+      "El Salvador",
+      "Honduras",
+      "Nicaragua"
+    ],
+    "question": "Which of these countries borders Mexico?",
+    "tags": [
+      "central_america",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "625e9ee8796f721e95543f75",
+    "correct_answer": "Three equal vertical bands of green white and red.",
+    "incorrect_answers": [
+      "Three equal horizontal bands of red white and black.",
+      "Red with a green five-pointed star in the center.",
+      "Red field with a yellow sun in the center."
+    ],
+    "question": "What does the flag of Italy look like?",
+    "tags": [
+      "flags",
+      "italy",
+      "europe",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c387cc59eab6f950aae",
+    "correct_answer": "United States of America",
+    "incorrect_answers": [
+      "Mexico",
+      "Belize",
+      "Guatemala"
+    ],
+    "question": "Which of these countries borders Canada?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d474b176d54800e3c8c",
+    "correct_answer": "Moscow",
+    "incorrect_answers": [
+      "Zürich",
+      "Barcelona",
+      "Rotterdam"
+    ],
+    "question": "Which of these cities is in Russia?",
+    "tags": [
+      "cities",
+      "europe",
+      "russia",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c387cc59eab6f950acf",
+    "correct_answer": "Pakistan",
+    "incorrect_answers": [
+      "Tajikistan",
+      "Kyrgyzstan",
+      "Thailand"
+    ],
+    "question": "Which of these countries borders India?",
+    "tags": [
+      "india",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d704b176d54800e3c98",
+    "correct_answer": "China",
+    "incorrect_answers": [
+      "Sri Lanka",
+      "Malaysia",
+      "Taiwan"
+    ],
+    "question": "Hong Kong is a city in which country?",
+    "tags": [
+      "cities",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c387cc59eab6f950af7",
+    "correct_answer": "Canada",
+    "incorrect_answers": [
+      "Belize",
+      "Guatemala",
+      "Cuba"
+    ],
+    "question": "Which of these countries borders United States of America?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623740dbcb85f7ce9e949d29",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "France",
+      "Greece",
+      "Egypt"
+    ],
+    "question": "Rome is the capital city of which country?",
+    "tags": [
+      "capital_cities",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "625e9e03796f721e95543f39",
+    "correct_answer": "Green",
+    "incorrect_answers": [
+      "Maroon",
+      "Red",
+      "Black"
+    ],
+    "question": "Which of these colors is included on the flag of Brazil?",
+    "tags": [
+      "flags",
+      "south_america",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623b57e6fd6c701a92118386",
+    "correct_answer": "USA",
+    "incorrect_answers": [
+      "Brazil",
+      "Spain",
+      "The UK"
+    ],
+    "question": "In which country would you find the Statue of Liberty?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623740bdcb85f7ce9e949d1d",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Thailand",
+      "Solomon Islands",
+      "Oman"
+    ],
+    "question": "New Delhi is the capital city of which country?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d0a4b176d54800e3c7a",
+    "correct_answer": "Toronto",
+    "incorrect_answers": [
+      "New York",
+      "London",
+      "Minneapolis-St Paul"
+    ],
+    "question": "Which of these cities is in Canada?",
+    "tags": [
+      "cities",
+      "canada",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62374081cb85f7ce9e949d05",
+    "correct_answer": "Germany",
+    "incorrect_answers": [
+      "Ukraine",
+      "Poland",
+      "Switzerland"
+    ],
+    "question": "Berlin is the capital city of which country?",
+    "tags": [
+      "capital_cities",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623b5794fd6c701a92118368",
+    "correct_answer": "Athens",
+    "incorrect_answers": [
+      "Jerusalem",
+      "Moscow",
+      "Venice"
+    ],
+    "question": "In which city would you find the Acropolis?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623742cfcb85f7ce9e949df3",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": [
+      "Russia",
+      "Australia",
+      "Belgium"
+    ],
+    "question": "London is the capital city of which country?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "625e9e30796f721e95543f45",
+    "correct_answer": "Red with five yellow stars in the top left.",
+    "incorrect_answers": [
+      "Blue with a yellow cross extending to the edges.",
+      "Red with a black two headed eagle in the center.",
+      "Green, with large white script and a sword."
+    ],
+    "question": "What does the flag of China look like?",
+    "tags": [
+      "flags",
+      "china",
+      "asia",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623385db62eaad73716a8c99",
+    "correct_answer": "The Amazon ",
+    "incorrect_answers": [
+      "The Missouri",
+      "The Mississippi",
+      "The Rio Grande"
+    ],
+    "question": "What's the longest river in the Americas?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62373602cfe13103f55eb591",
+    "correct_answer": "The United Kingdom",
+    "incorrect_answers": [
+      "Ukraine",
+      "Uzbekistan",
+      "Uganda"
+    ],
+    "question": "Which region of the world uses '.uk' at the end of its web addresses?",
+    "tags": [
+      "the_internet",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "6237426acb85f7ce9e949dca",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "San Marino",
+      "Barcelona",
+      "Seville"
+    ],
+    "question": "What is the capital city of Spain?",
+    "tags": [
+      "europe",
+      "capital_cities",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "6237408acb85f7ce9e949d09",
+    "correct_answer": "Greece",
+    "incorrect_answers": [
+      "Luxembourg",
+      "Georgia",
+      "Serbia"
+    ],
+    "question": "Athens is the capital city of which country?",
+    "tags": [
+      "capital_cities",
+      "cities",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "6237353fcfe13103f55eb512",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "United Kingdom",
+      "Indonesia",
+      "Ireland"
+    ],
+    "question": "Which region of the world uses '.in' at the end of its web addresses?",
+    "tags": [
+      "the_internet",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62373ffacb85f7ce9e949ccf",
+    "correct_answer": "China",
+    "incorrect_answers": [
+      "Japan",
+      "North Korea",
+      "Mongolia"
+    ],
+    "question": "Beijing is the capital city of which country?",
+    "tags": [
+
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623b57f0fd6c701a9211838a",
+    "correct_answer": "Italy",
+    "incorrect_answers": [
+      "Russia",
+      "New Zealand",
+      "France"
+    ],
+    "question": "In which country would you find the city of Rome?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c387cc59eab6f950a5c",
+    "correct_answer": "Russia",
+    "incorrect_answers": [
+      "Bulgaria",
+      "Lithuania",
+      "Latvia"
+    ],
+    "question": "Which of these countries borders Ukraine?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "625e9e33796f721e95543f46",
+    "correct_answer": "Red",
+    "incorrect_answers": [
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "question": "Which of these colors is included on the flag of China?",
+    "tags": [
+      "flags",
+      "china",
+      "asia",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623742d6cb85f7ce9e949df6",
+    "correct_answer": "Washington, D.C.",
+    "incorrect_answers": [
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "question": "What is the capital city of The United States of America?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c357cc59eab6f950008",
+    "correct_answer": "Rome",
+    "incorrect_answers": [
+      "Milan",
+      "Naples",
+      "Florence"
+    ],
+    "question": "In which city is the colosseum located?",
+    "tags": [
+      "tourist_attractions",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602cfc4b176d54800e3c76",
+    "correct_answer": "Japan",
+    "incorrect_answers": [
+      "Philippines",
+      "India",
+      "China"
+    ],
+    "question": "Tokyo is a city in which country?",
+    "tags": [
+      "cities",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d694b176d54800e3c96",
+    "correct_answer": "China",
+    "incorrect_answers": [
+      "Philippines",
+      "Malaysia",
+      "Cambodia"
+    ],
+    "question": "In which country is the city of Shenzhen?",
+    "tags": [
+      "cities",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d284b176d54800e3c83",
+    "correct_answer": "Munich",
+    "incorrect_answers": [
+      "Valencia",
+      "Budapest",
+      "Milan"
+    ],
+    "question": "Which of these cities is in Germany?",
+    "tags": [
+      "cities",
+      "europe",
+      "germany",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "6233892c0161109f922aacd0",
+    "correct_answer": "Plate Tectonics ",
+    "incorrect_answers": [
+      "Landslide",
+      "The Big Bang",
+      "Kercher's Theory"
+    ],
+    "question": "Which Theory Is Used To Explain Continental Drift?",
+    "tags": [
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602dbd4b176d54800e3caa",
+    "correct_answer": "Perth",
+    "incorrect_answers": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "question": "Which of these cities is in Australia?",
+    "tags": [
+      "cities",
+      "australia",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "623388b60161109f922aaca4",
+    "correct_answer": "Pisa ",
+    "incorrect_answers": [
+      "Florence",
+      "Naples",
+      "Turin"
+    ],
+    "question": "Which Italian City Is Famous For Its Leaning Tower",
+    "tags": [
+      "tourist_attractions",
+      "italy",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c357cc59eab6f94fe0d",
+    "correct_answer": "Asia",
+    "incorrect_answers": [
+      "Europe",
+      "Africa",
+      "North America"
+    ],
+    "question": "Which is the Earth's largest continent?",
+    "tags": [
+      "records",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "622a1c357cc59eab6f94ff91",
+    "correct_answer": "Beijing",
+    "incorrect_answers": [
+      "Hong Kong",
+      "Shanghai",
+      "Chengdu"
+    ],
+    "question": "What is the capital of China?",
+    "tags": [
+      "china",
+      "capital_cities",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d174b176d54800e3c7e",
+    "correct_answer": "Australia",
+    "incorrect_answers": [
+      "Ireland",
+      "New Zealand",
+      "Canada"
+    ],
+    "question": "Sydney is a city in which country?",
+    "tags": [
+      "cities",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d2c4b176d54800e3c84",
+    "correct_answer": "Madrid",
+    "incorrect_answers": [
+      "Berlin",
+      "Cologne",
+      "Dublin"
+    ],
+    "question": "Which of these cities is in Spain?",
+    "tags": [
+      "cities",
+      "europe",
+      "spain",
+      "general_knowledge",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602db94b176d54800e3ca9",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": [
+      "United States",
+      "New Zealand",
+      "Ireland"
+    ],
+    "question": "In which country is the city of Edinburgh?",
+    "tags": [
+      "cities",
+      "europe",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "625e9fcd796f721e95543fb8",
+    "correct_answer": "Blue with a yellow cross extending to the edges.",
+    "incorrect_answers": [
+      "Red with a white crescent moon and star.",
+      "Three equal horizontal bands of red blue and orange.",
+      "Red with a black two headed eagle in the center."
+    ],
+    "question": "What does the flag of Sweden look like?",
+    "tags": [
+      "flags",
+      "europe",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602d5f4b176d54800e3c93",
+    "correct_answer": "Copenhagen",
+    "incorrect_answers": [
+      "Milan",
+      "Athens",
+      "Munich"
+    ],
+    "question": "Which of these cities is in Denmark?",
+    "tags": [
+      "cities",
+      "europe",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Geography",
+    "id": "62602de44b176d54800e3cb2",
+    "correct_answer": "India",
+    "incorrect_answers": [
+      "Mongolia",
+      "Malaysia",
+      "Japan"
+    ],
+    "question": "Where would you find the city of Delhi?",
+    "tags": [
+      "cities",
+      "geography"
+    ],
+    "type": "Multiple Choice",
+    "difficulty": "easy"
+  }
+  ]}
