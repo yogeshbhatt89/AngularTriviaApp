@@ -82,12 +82,13 @@
         />
         <div class="result text-center col-md-6 col-md-12"></div>
         <h3>
-          Congratulations! <br />You have completed the Trivia Quiz.<br />
-          Here is how you did.
+          Congratulations {{ name }}! <br />You have completed the Trivia
+          Quiz.<br />
+          Here is how you did:
         </h3>
         <p>Total Correct : {{ correctAns }}</p>
         <p>Total Wrong : {{ incorrectAns }}</p>
-        <p>Total Score : {{ points }}</p>
+        <h5>Total Score : {{ points }}</h5>
       </div>
     </ng-container>
   </div>
