@@ -8,6 +8,8 @@ import { QuestionComponent } from './question/question.component';
 import { HeaderComponent } from './header/header.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ChangeBgDirective } from './change-bg.directive';
+import { LeaderboardComponent } from './leaderboard/leaderboard.component';
+import { LeaderboardService } from './service/leaderboard.service';
 
 @NgModule({
   declarations: [
@@ -16,9 +18,10 @@ import { ChangeBgDirective } from './change-bg.directive';
     QuestionComponent,
     HeaderComponent,
     ChangeBgDirective,
+    LeaderboardComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
-  providers: [],
+  providers: [LeaderboardService],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

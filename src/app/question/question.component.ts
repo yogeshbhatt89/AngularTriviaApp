@@ -1,15 +1,22 @@
 import { Component, OnInit } from '@angular/core';
 import { interval } from 'rxjs';
+import { Leaderboard } from 'src/models/leaderboard';
+import { LeaderboardService } from '../service/leaderboard.service';
 import { QuestionService } from '../service/question.service';
-
+LeaderboardService;
 @Component({
   selector: 'app-question',
   templateUrl: './question.component.html',
   styleUrls: ['./question.component.scss'],
 })
 export class QuestionComponent implements OnInit {
+  leaderboard: Leaderboard = {
+    name: '',
+    score: 0,
+  };
   public name: string = '';
   public questionList: any = [];
+  public newQuestionList: any = [];
   public questionNumber: number = 1;
   public currentQuestion: number =
     Math.floor(Math.random() * (141 - 0 + 1)) + 0;
@@ -22,27 +29,48 @@ export class QuestionComponent implements OnInit {
   progress: string = '0';
   quizCompleted: boolean = false;
 
-  constructor(private questionService: QuestionService) {}
+  public isClicked: boolean = false;
+
+  constructor(
+    private questionService: QuestionService,
+    private leaderboardService: LeaderboardService
+  ) {}
+  // changeJson() {
+  //   this.questionList.forEach((element: any) => {
+  //     console.log(element.correct_answer);
+  //   });
+  //   // this needs fixing!!
+  // }
 
   ngOnInit(): void {
     this.name = localStorage.getItem('name')!;
     this.getAllQuestions();
     this.startCounter();
     this.getProgressPercent();
+    // this.changeJson();
+    // console.log(this.newQuestionList);
   }
   getAllQuestions() {
     this.questionService.getQuestionJson().subscribe((res) => {
       this.questionList = res.questions;
     });
   }
+  onFinish() {
+    this.leaderboard = { name: this.name, score: this.points };
+    this.leaderboardService.addHighScore(this.leaderboard);
+  }
   wrongAnswer(currentQues: number, option: any) {
-    this.points -= 50 * this.counter;
-    this.incorrectAns++;
-
+    this.isClicked = true;
+    if (this.isClicked === true) {
+      this.points -= 50 * this.counter;
+      this.incorrectAns++;
+      this.isClicked = false;
+    }
     setTimeout(() => {
       this.questionNumber++;
       if (this.questionNumber > 10) {
         this.quizCompleted = true;
+        this.onFinish();
       }
       this.getProgressPercent();
       this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
@@ -57,6 +85,7 @@ export class QuestionComponent implements OnInit {
       this.questionNumber++;
       if (this.questionNumber > 10) {
         this.quizCompleted = true;
+        this.onFinish();
       }
       this.getProgressPercent();
       this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
@@ -74,6 +103,7 @@ export class QuestionComponent implements OnInit {
         this.questionNumber++;
         if (this.questionNumber > 10) {
           this.quizCompleted = true;
+          this.onFinish();
         }
         this.getProgressPercent();
       }

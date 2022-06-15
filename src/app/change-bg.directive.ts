@@ -17,6 +17,7 @@ export class ChangeBgDirective {
       this.render.setStyle(this.el.nativeElement, 'background', 'green');
       this.render.setStyle(this.el.nativeElement, 'color', '#fff');
       this.render.setStyle(this.el.nativeElement, 'border', '2px solid grey');
+
       setTimeout(() => {
         this.render.removeStyle(this.el.nativeElement, 'background');
         this.render.removeStyle(this.el.nativeElement, 'color');
@@ -24,6 +25,7 @@ export class ChangeBgDirective {
       }, 1500);
     } else {
       this.render.setStyle(this.el.nativeElement, 'background', 'red');
+      this.render.setProperty(this.el.nativeElement, 'button', 'disable');
       this.render.setStyle(this.el.nativeElement, 'color', '#fff');
       this.render.setStyle(this.el.nativeElement, 'border', '2px solid grey');
     }

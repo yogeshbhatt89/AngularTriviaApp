@@ -1,0 +1,17 @@
+<div class="container mt-5">
+  <div class="card">
+    <h1>LEADERBOARDS</h1>
+    <div class="">
+      <div class="d-flex col">
+        <br />
+        <ol>
+          <li *ngFor="let item of leaderboard">
+            <h3 class="mr-5">Name: {{ item.name }}</h3>
+            <h3>Score: {{ item.score }}</h3>
+            <br />
+          </li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>

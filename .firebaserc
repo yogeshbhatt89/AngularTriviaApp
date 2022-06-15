@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "triviaapp-9819f": {
+      "hosting": {
+        "AngularApp": [
+          "triviaapp-9819f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "triviaapp-9819f"
+  }
+}

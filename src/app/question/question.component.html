@@ -2,7 +2,11 @@
   <div class="card">
     <div class="d-flex justify-content-between">
       <div class="image">
-        <img src="/assets/trivia.png" width="90" alt="trivia" />
+        <img
+          src="https://cdn-icons-png.flaticon.com/512/5692/5692030.png"
+          width="90"
+          alt="trivia"
+        />
       </div>
       <div class="quiz-header">
         <h4 class="font-family: cursive;">Trivia Questions!</h4>
@@ -51,19 +55,22 @@
         </div>
       </div>
       <div class="options">
-        <ol
-          *ngFor="
-            let option of questionList[currentQuestion]?.incorrect_answers
-          "
-        >
-          <li (click)="wrongAnswer(currentQuestion, option)">
+        <ol>
+          <li
+            *ngFor="
+              let option of questionList[currentQuestion]?.incorrect_answers
+            "
+            type="button"
+            (click)="wrongAnswer(currentQuestion, option)"
+            disabled="disabled"
+          >
             <div appChangeBg [isCorrect]="false" class="card">
               {{ option }}
             </div>
           </li>
         </ol>
         <ol>
-          <li (click)="correctAnswer(currentQuestion)">
+          <li type="button" (click)="correctAnswer(currentQuestion)">
             <div appChangeBg [isCorrect]="true" class="card">
               {{ questionList[currentQuestion]?.correct_answer }}
             </div>
@@ -81,6 +88,7 @@
           alt=""
         />
         <div class="result text-center col-md-6 col-md-12"></div>
+
         <h3>
           Congratulations {{ name }}! <br />You have completed the Trivia
           Quiz.<br />
@@ -93,11 +101,19 @@
     </ng-container>
   </div>
   <div class="d-flex justify-content-center mt-3">
-    <button
-      class="text-center btn btn-primary btn-lg bg-warning text-black"
-      (click)="resetQuiz()"
-    >
-      Reset
-    </button>
+    <div class="d-flex flex-row">
+      <button
+        class="text-center btn btn-primary btn-lg bg-warning text-black mr-5"
+        (click)="resetQuiz()"
+      >
+        Reset
+      </button>
+      <button
+        class="btn btn-primary btn-lg bg-blue text-white"
+        routerLink="/leaderboard"
+      >
+        Leaderboard
+      </button>
+    </div>
   </div>
 </div>
