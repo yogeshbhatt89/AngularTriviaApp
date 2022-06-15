@@ -29,7 +29,7 @@ export class QuestionComponent implements OnInit {
   progress: string = '0';
   quizCompleted: boolean = false;
 
-  public isClicked: boolean = false;
+  public isAbleToClick: boolean = true;
 
   constructor(
     private questionService: QuestionService,
@@ -56,41 +56,46 @@ export class QuestionComponent implements OnInit {
     });
   }
   onFinish() {
-    this.leaderboard = { name: this.name, score: this.points };
-    this.leaderboardService.addHighScore(this.leaderboard);
+    if (this.points > 0) {
+      this.leaderboard = { name: this.name, score: this.points };
+      this.leaderboardService.addHighScore(this.leaderboard);
+    }
   }
   wrongAnswer(currentQues: number, option: any) {
-    this.isClicked = true;
-    if (this.isClicked === true) {
+    if (this.isAbleToClick === true) {
       this.points -= 50 * this.counter;
       this.incorrectAns++;
-      this.isClicked = false;
+      this.isAbleToClick = false;
+      setTimeout(() => {
+        this.questionNumber++;
+        if (this.questionNumber > 10) {
+          this.quizCompleted = true;
+          this.onFinish();
+        }
+        this.getProgressPercent();
+        this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
+        this.resetCounter();
+        this.isAbleToClick = true;
+      }, 1500);
     }
-    setTimeout(() => {
-      this.questionNumber++;
-      if (this.questionNumber > 10) {
-        this.quizCompleted = true;
-        this.onFinish();
-      }
-      this.getProgressPercent();
-      this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
-      this.resetCounter();
-    }, 1500);
   }
   correctAnswer(currentQues: number) {
-    this.points += 50 * this.counter;
-    this.correctAns++;
-
-    setTimeout(() => {
-      this.questionNumber++;
-      if (this.questionNumber > 10) {
-        this.quizCompleted = true;
-        this.onFinish();
-      }
-      this.getProgressPercent();
-      this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
-      this.resetCounter();
-    }, 1500);
+    if (this.isAbleToClick === true) {
+      this.points += 50 * this.counter;
+      this.correctAns++;
+      this.isAbleToClick = false;
+      setTimeout(() => {
+        this.questionNumber++;
+        if (this.questionNumber > 10) {
+          this.quizCompleted = true;
+          this.onFinish();
+        }
+        this.getProgressPercent();
+        this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
+        this.resetCounter();
+        this.isAbleToClick = true;
+      }, 1500);
+    }
   }
   startCounter() {
     this.interval$ = interval(1000).subscribe((val) => {

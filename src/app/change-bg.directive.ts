@@ -10,6 +10,7 @@ import {
   selector: '[appChangeBg]',
 })
 export class ChangeBgDirective {
+  // public isAbleToClick: boolean = true;
   @Input() isCorrect: Boolean = false;
   constructor(private el: ElementRef, private render: Renderer2) {}
   @HostListener('click') answer() {
