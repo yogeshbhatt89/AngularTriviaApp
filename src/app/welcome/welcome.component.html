@@ -1,8 +1,8 @@
 <div class="container bg-light py-5">
   <h1 class="display-5 fw-bold text-warning">
-    Welcome to the General Trivia Quiz
+    Welcome to the Movie Trivia Quiz
   </h1>
-  <p class="col-md-8 fs-4">Trivia quiz will have 10 timed questions.</p>
+  <p class="col-md-8 fs-4">This quiz will have 10 timed questions.</p>
   <h4 class="text-warning">General Rules:</h4>
   <ol>
     <li>Correct Question answered will give you 50 points!</li>
@@ -23,7 +23,15 @@
   <div class="name col-md-4 my-3">
     <label for="">Enter your name:</label>
     <form>
-      <input #name required type="text" class="form-control" /><br />
+      <input
+        #name
+        required
+        matInput
+        type="text"
+        class="form-control"
+        appearance="outline"
+      />
+      <br />
       <button
         type="submit"
         class="btn btn-primary btn-lg bg-warning text-black"

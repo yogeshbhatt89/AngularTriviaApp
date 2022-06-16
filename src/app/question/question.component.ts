@@ -10,6 +10,11 @@ LeaderboardService;
   styleUrls: ['./question.component.scss'],
 })
 export class QuestionComponent implements OnInit {
+  public answer: any = {
+    text: '',
+    correct: true,
+  };
+
   leaderboard: Leaderboard = {
     name: '',
     score: 0,
@@ -17,9 +22,9 @@ export class QuestionComponent implements OnInit {
   public name: string = '';
   public questionList: any = [];
   public newQuestionList: any = [];
+
   public questionNumber: number = 1;
-  public currentQuestion: number =
-    Math.floor(Math.random() * (141 - 0 + 1)) + 0;
+  public currentQuestion: number = Math.floor(Math.random() * (20 - 0 + 1)) + 0;
   public points: number = 0;
   public question: number = 1;
   counter = 10;
@@ -35,25 +40,32 @@ export class QuestionComponent implements OnInit {
     private questionService: QuestionService,
     private leaderboardService: LeaderboardService
   ) {}
-  // changeJson() {
-  //   this.questionList.forEach((element: any) => {
-  //     console.log(element.correct_answer);
-  //   });
-  //   // this needs fixing!!
-  // }
+
 
   ngOnInit(): void {
     this.name = localStorage.getItem('name')!;
+
     this.getAllQuestions();
     this.startCounter();
     this.getProgressPercent();
-    // this.changeJson();
-    // console.log(this.newQuestionList);
+
   }
   getAllQuestions() {
     this.questionService.getQuestionJson().subscribe((res) => {
       this.questionList = res.questions;
     });
+
+    for (let index = 0; index < this.questionList.length; index++) {
+      const wrongAnswers = this.questionList[index].questions.incorrectAnswers;
+      for (let index = 0; index < wrongAnswers.length; index++) {
+        const elem = wrongAnswers[index];
+        this.answer.text = elem;
+        this.answer.correct = false;
+        this.newQuestionList.push(this.answer);
+      }
+    }
+
+ 
   }
   onFinish() {
     if (this.points > 0) {
@@ -73,7 +85,7 @@ export class QuestionComponent implements OnInit {
           this.onFinish();
         }
         this.getProgressPercent();
-        this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
+        this.currentQuestion = Math.floor(Math.random() * (20 - 0 + 1)) + 0;
         this.resetCounter();
         this.isAbleToClick = true;
       }, 1500);
@@ -91,7 +103,7 @@ export class QuestionComponent implements OnInit {
           this.onFinish();
         }
         this.getProgressPercent();
-        this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
+        this.currentQuestion = Math.floor(Math.random() * (20 - 0 + 1)) + 0;
         this.resetCounter();
         this.isAbleToClick = true;
       }, 1500);
@@ -101,7 +113,7 @@ export class QuestionComponent implements OnInit {
     this.interval$ = interval(1000).subscribe((val) => {
       this.counter--;
       if (this.counter === 0) {
-        this.currentQuestion = Math.floor(Math.random() * (141 - 0 + 1)) + 0;
+        this.currentQuestion = Math.floor(Math.random() * (20 - 0 + 1)) + 0;
 
         this.counter = 10;
         this.points -= 50;

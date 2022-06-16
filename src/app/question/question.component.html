@@ -58,7 +58,7 @@
         <ol>
           <li
             *ngFor="
-              let option of questionList[currentQuestion]?.incorrect_answers
+              let option of questionList[currentQuestion]?.incorrectAnswers
             "
             type="button"
             (click)="wrongAnswer(currentQuestion, option)"
@@ -72,7 +72,7 @@
         <ol>
           <li type="button" (click)="correctAnswer(currentQuestion)">
             <div appChangeBg [isCorrect]="true" class="card">
-              {{ questionList[currentQuestion]?.correct_answer }}
+              {{ questionList[currentQuestion]?.correctAnswer }}
             </div>
           </li>
         </ol>

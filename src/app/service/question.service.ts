@@ -8,5 +8,4 @@ export class QuestionService {
   getQuestionJson() {
     return this.http.get<any>('assets/questions.json');
   }
-  
 }
