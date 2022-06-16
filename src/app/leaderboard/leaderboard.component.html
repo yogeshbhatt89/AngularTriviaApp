@@ -1,13 +1,17 @@
 <div class="container mt-5">
   <div class="card">
-    <h1>LEADERBOARDS</h1>
+    <h1 class="text-warning text-center">LEADERBOARDS</h1>
     <div class="">
-      <div class="d-flex col">
+      <div class="d-flex col d-flex justify-content-center">
         <br />
         <ol>
           <li *ngFor="let item of leaderboard">
-            <h3 class="mr-5">Name: {{ item.name }}</h3>
-            <h3>Score: {{ item.score }}</h3>
+            <h4 class="mr-5">
+              {{ item.name }}
+              <br />
+              <span class="text-warning">Score: </span
+              ><span>{{ item.score }}</span>
+            </h4>
             <br />
           </li>
         </ol>
