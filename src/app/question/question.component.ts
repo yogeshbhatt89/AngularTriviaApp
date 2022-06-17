@@ -41,34 +41,20 @@ export class QuestionComponent implements OnInit {
     private leaderboardService: LeaderboardService
   ) {}
 
-
   ngOnInit(): void {
     this.name = localStorage.getItem('name')!;
 
     this.getAllQuestions();
     this.startCounter();
     this.getProgressPercent();
-
   }
   getAllQuestions() {
     this.questionService.getQuestionJson().subscribe((res) => {
       this.questionList = res.questions;
     });
-
-    for (let index = 0; index < this.questionList.length; index++) {
-      const wrongAnswers = this.questionList[index].questions.incorrectAnswers;
-      for (let index = 0; index < wrongAnswers.length; index++) {
-        const elem = wrongAnswers[index];
-        this.answer.text = elem;
-        this.answer.correct = false;
-        this.newQuestionList.push(this.answer);
-      }
-    }
-
- 
   }
   onFinish() {
-    if (this.points > 0) {
+    if (this.quizCompleted === true) {
       this.leaderboard = { name: this.name, score: this.points };
       this.leaderboardService.addHighScore(this.leaderboard);
     }
@@ -82,7 +68,6 @@ export class QuestionComponent implements OnInit {
         this.questionNumber++;
         if (this.questionNumber > 10) {
           this.quizCompleted = true;
-          this.onFinish();
         }
         this.getProgressPercent();
         this.currentQuestion = Math.floor(Math.random() * (20 - 0 + 1)) + 0;
@@ -120,14 +105,12 @@ export class QuestionComponent implements OnInit {
         this.questionNumber++;
         if (this.questionNumber > 10) {
           this.quizCompleted = true;
+          this.stopCounter();
           this.onFinish();
         }
         this.getProgressPercent();
       }
     });
-    setTimeout(() => {
-      this.interval$.unsubscribe();
-    }, 600000);
   }
   stopCounter() {
     this.interval$.unsubscribe();

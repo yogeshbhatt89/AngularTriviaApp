@@ -16,7 +16,7 @@ export class LeaderboardService {
 
   constructor(public afs: AngularFirestore) {
     this.leaderboardCollection = this.afs.collection('leaderboard', (ref) =>
-      ref.orderBy('score', 'desc').limit(10).where('score', '>', -1000)
+      ref.orderBy('score', 'desc').limit(10).where('score', '>', 0)
     );
 
     this.leaderboard = this.leaderboardCollection.valueChanges();
