@@ -54,10 +54,10 @@ export class QuestionComponent implements OnInit {
     });
   }
   onFinish() {
-    if (this.quizCompleted === true) {
-      this.leaderboard = { name: this.name, score: this.points };
-      this.leaderboardService.addHighScore(this.leaderboard);
-    }
+    // if (this.quizCompleted === true) {
+    this.leaderboard = { name: this.name, score: this.points };
+    this.leaderboardService.addHighScore(this.leaderboard);
+    // }
   }
   wrongAnswer(currentQues: number, option: any) {
     if (this.isAbleToClick === true) {
@@ -66,13 +66,16 @@ export class QuestionComponent implements OnInit {
       this.isAbleToClick = false;
       setTimeout(() => {
         this.questionNumber++;
-        if (this.questionNumber > 10) {
-          this.quizCompleted = true;
-        }
+
         this.getProgressPercent();
         this.currentQuestion = Math.floor(Math.random() * (20 - 0 + 1)) + 0;
         this.resetCounter();
         this.isAbleToClick = true;
+        if (this.questionNumber > 10) {
+          this.quizCompleted = true;
+          this.stopCounter();
+          this.onFinish();
+        }
       }, 1500);
     }
   }
@@ -83,14 +86,16 @@ export class QuestionComponent implements OnInit {
       this.isAbleToClick = false;
       setTimeout(() => {
         this.questionNumber++;
-        if (this.questionNumber > 10) {
-          this.quizCompleted = true;
-          this.onFinish();
-        }
+
         this.getProgressPercent();
         this.currentQuestion = Math.floor(Math.random() * (20 - 0 + 1)) + 0;
         this.resetCounter();
         this.isAbleToClick = true;
+        if (this.questionNumber > 10) {
+          this.quizCompleted = true;
+          this.stopCounter();
+          this.onFinish();
+        }
       }, 1500);
     }
   }
@@ -106,7 +111,7 @@ export class QuestionComponent implements OnInit {
         if (this.questionNumber > 10) {
           this.quizCompleted = true;
           this.stopCounter();
-          this.onFinish();
+          // this.onFinish();
         }
         this.getProgressPercent();
       }
